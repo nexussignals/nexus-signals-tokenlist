@@ -1,21 +1,21 @@
 {
   "name": "Nexus Signals Token List",
   "logoURI": "https://i.postimg.cc/GtdHHd7s/image.jpg",
-  "keywords": ["nexus", "signals", "polygon", "defi"],
+  "keywords": ["defi", "trading", "analytics", "polygon", "nexus", "signals"],
   "timestamp": "2025-10-15T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 137,
-      "address": "0x9B9b8f7636783F605B14c1bf6DCd121B944b6715",
-      "name": "Nexus Signals Token",
-      "symbol": "NESI",
-      "decimals": 18,
-      "logoURI": "https://i.postimg.cc/GtdHHd7s/image.jpg"
-    }
-  ],
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
-  }
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x9B9b8f7636783F605B14c1bf6DCd121B944b6715",
+      "name": "Nexus Signals",
+      "symbol": "NESI",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/GtdHHd7s/image.jpg"
+    }
+  ]
 }
